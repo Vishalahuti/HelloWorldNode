@@ -1,0 +1,27 @@
+# Node modules
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Build artifacts
+dist
+build
+
+# Environment variable files
+.env
+.env.local
+.env.development
+
+# Version control
+.git
+.gitignore
+
+# IDE configurations
+.vscode
+.idea
+*.sublime-project
+*.sublime-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
